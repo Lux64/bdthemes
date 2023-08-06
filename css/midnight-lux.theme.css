@@ -73,7 +73,7 @@
 	--white-500: var(--bright-text);
 	--blue-345: var(--link-color);
 	--brand-260: var(--accent-color);
-/*	--brand-360: var(--accent-color);	remove folder color change */
+	--brand-360: var(--accent-color);
 	--brand-500: var(--accent-background);
 	--brand-560: var(--accent-background-2);
 	--brand-600: var(--accent-background-3);
